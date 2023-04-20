@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.chatbot {
+  position: absolute;
+  bottom: 324px;
+  right: 368px;
+  width: 603px;
+  height: 347px;
+  background-color: #ffffff00;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}

@@ -1,0 +1,11 @@
+.init-display-message {
+  position: absolute;
+  bottom: 460px;
+  right: 570px;
+
+  background-color: #ffffff00;
+
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
